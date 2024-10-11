@@ -5,6 +5,7 @@
     align-items: center;
     font-size: 10px;
     padding: 9rem 0rem;
+    height: 80vh;
     & h2{
         font-size: 3em;
         text-transform: uppercase;
