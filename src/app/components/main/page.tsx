@@ -1,4 +1,4 @@
-import Image from "next/image"
+
 import css from "./page.module.css"
 
 
@@ -17,7 +17,7 @@ export default function Main(){
                     <div className={css.item_02}>
                         <img src="https://s.abcnews.com/images/US/snapchat-gty-jt-230906_1694042000331_hpMain_16x9_1600.jpg" alt="image"/>
                         <h4>snapchat</h4>
-                        <p>Snapchat’s new AI chatbot is already raising alarms among teens and parents</p>
+                        <p>Snapchats new AI chatbot is already raising alarms among teens and parents</p>
                         <a href="https://edition.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html" target="_blank"><button>read more</button></a>
                     </div>
                     <div className={css.item_02}>
@@ -100,7 +100,7 @@ export default function Main(){
                         <div className={css.item_04}>                 
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkBGBF2UH3_h0wz4VrwZQ1pWaeiNT7rVQGw&s" alt="image" />
                             <h4>telegram</h4>
-                            <p>Telegram app hosts 'underground markets' for Southeast Asian crime gangs, UN says</p>
+                            <p>Telegram app hosts underground markets for Southeast Asian crime gangs, UN says</p>
                             <a href="https://www.reuters.com/world/asia-pacific/criminal-networks-southeast-asia-flourish-telegrams-underground-markets-un-says-2024-10-07/" target="_blank"><button>read more</button></a>
                         </div>
                         <div className={css.item_04}>                 
@@ -131,21 +131,21 @@ export default function Main(){
                         <div className={css.item_05}>
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6scZhHL2jXSmI_YL8s003YjID1vkif4Xs0A&s" alt="image" />
                             <h4>Uber to launch AI</h4>
-                            <p>Uber to launch AI assistant powered by OpenAI's GPT-4o</p>
+                            <p>Uber to launch AI assistant powered by OpenAIs GPT-4o</p>
                             <a href="https://www.reuters.com/technology/artificial-intelligence/uber-launch-ai-assistant-powered-by-openais-gpt-4o-help-drivers-go-electric-2024-10-08/" target="_blank"><button>read more</button></a>
                         </div>
                         <div className={css.item_05}>
                             <img src="https://i0.wp.com/www.webpronews.com/wp-content/uploads/2024/08/robotaxi-081824.jpeg?fit=1024%2C768&ssl=1" alt="image" />
-                            <h4>Tesla's robotaxi</h4>
-                            <p>Tesla's robotaxi to face questions, scrutiny at unveiling this week</p>
+                            <h4>Teslas robotaxi</h4>
+                            <p>Teslas robotaxi to face questions, scrutiny at unveiling this week</p>
                             <a href="https://www.reuters.com/business/autos-transportation/teslas-musk-heads-hollywood-unveil-his-robotaxi-face-long-list-questions-2024-10-08/" target="_blank"><button>read more</button></a>
                         </div>
                     </div>
                     <div className={css.row_05}>
                         <div className={css.item_05}>
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuhuD0LAwp5lq4tt6ZN1dzQairOT-qktwGZg&s" alt="image" />
-                            <h4>Alphabet's Waymo </h4>
-                            <p>Alphabet's Waymo to expand robotaxi fleet with Hyundai EVs</p>
+                            <h4>Alphabets Waymo </h4>
+                            <p>Alphabets Waymo to expand robotaxi fleet with Hyundai EVs</p>
                             <a href="https://www.reuters.com/business/autos-transportation/alphabets-waymo-expand-robotaxi-fleet-with-hyundai-evs-2024-10-04/" target="_blank"><button>read more</button></a>
                         </div>
                         <div className={css.item_05}>
